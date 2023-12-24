@@ -13,3 +13,8 @@ How it Works
 5. If a valid number is found, we recursively proceed to the next cell. If we reach the end of the grid without conflicts, a solution is found.
 6. If a conflict arises or we cannot find a valid assignment, we backtrack to the previous cell and try a different number.
 7. The process continues until a solution is found or all possibilities are exhausted.
+
+
+# Rythmo Requirements / Design Specification
+
+These documents are comprehensive specifications that outline the vision, features, and technical aspects of the Rhythmo platform. It provides a clear direction for development by detailing user needs, system functionalities, and visual representations of the system's behavior. This is a standard and essential part of the software development process, helping our team communicate and align on the goals and structure of the project.
